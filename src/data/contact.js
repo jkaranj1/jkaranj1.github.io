@@ -4,7 +4,7 @@ import { faResearchgate } from '@fortawesome/free-brands-svg-icons/faResearchgat
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 import { faXTwitter } from '@fortawesome/free-brands-svg-icons/faXTwitter';
-import CV from '../assets/test_CV.pdf';
+import CV from '../assets/Joseph Karanja_CV.pdf';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
 
