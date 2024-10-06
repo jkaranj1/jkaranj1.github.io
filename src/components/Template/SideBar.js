@@ -23,7 +23,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Joseph Karanja <Link to="/">josephkaranja.com</Link>.
+        &copy; Joseph Karanja <Link to="/">jkaranj1.github.io</Link>.
       </p>
     </section>
   </section>
