@@ -7,6 +7,7 @@ import Cell from '../components/Projects/Cell';
 import data from '../data/projects_copy';
 
 import ContactIcons from '../components/Contact/ContactIcons';
+import JK_CV from '../assets/Joseph Karanja_CV.docx';
 
 const Research = () => (
   <Main title="Research">
@@ -26,6 +27,9 @@ const Research = () => (
         <div className="image">
           <img src={`${process.env.PUBLIC_URL}${'/images/projects/Research_diagram.png'}`} alt="research statement" />
         </div>
+      </div>
+      <div className="mini-post">
+        <a href={JK_CV} className="cv-download" target="_blank" rel="noreferrer" download>Download Joseph&apos;s full CV here.</a>
       </div>
       <div className="courses-title">
         <h3>Publications</h3>
