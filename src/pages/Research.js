@@ -29,7 +29,7 @@ const Research = () => (
         </div>
       </div>
       <div className="mini-post">
-        <a href={JK_CV} className="cv-download" target="_blank" rel="noreferrer" download>DOWNLOAD JOSEPH&apos;S FULL CV HERE</a>
+        <a href={JK_CV} className="cv-download" target="_blank" rel="noreferrer" download>DOWNLOAD JOSEPH&apos;S FULL CV HERE.</a>
       </div>
       <div className="courses-title">
         <h3>Publications</h3>
