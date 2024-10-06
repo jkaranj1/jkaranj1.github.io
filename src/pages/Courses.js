@@ -20,11 +20,11 @@ const Courses = () => (
       <table>
         <tr>
           <td><b>ASU</b></td>
-          <td><b>World Geography</b>: 100-level undergraduate course{' '}focusing on world regions, <b>Spring 2021</b></td>
+          <td><b>World Geography</b>: 100-level undergraduate course{' '}focusing on world regions, <b>Fall 2024</b></td>
         </tr>
         <tr>
           <td><b>ASU</b></td>
-          <td><b>Introduction to Meteorolgy</b>: 200-level undergraduate lab course{' '}focusing on general concepts of meteorology, Spring 2021</td>
+          <td><b>Introduction to Meteorolgy</b>: 200-level undergraduate lab course{' '}focusing on general concepts of meteorology, <b>Fall 2022</b></td>
         </tr>
       </table>
       <div className="courses-title">
@@ -33,7 +33,7 @@ const Courses = () => (
       <table>
         <tr>
           <td><b>ASU</b></td>
-          <td><b>Global Change</b>: 300-level undergraduate interdisciplinary course{' '}focusing on the dynamics of atmospheric, lithospheric, and hydrospheric dynamics, <b>Spring 2021</b></td>
+          <td><b>Global Change</b>: 300-level undergraduate interdisciplinary course{' '}focusing on the dynamics of atmospheric, lithospheric, and hydrospheric dynamics, <b>Fall 2023</b></td>
         </tr>
         <tr>
           <td><b>GSU</b></td>
@@ -41,15 +41,15 @@ const Courses = () => (
         </tr>
         <tr>
           <td><b>GSU</b></td>
-          <td><b>Introduction to GIS</b>: 400/500-level course, <b>Spring 2021</b></td>
+          <td><b>Introduction to GIS</b>: 400/500-level course, <b>Fall 2019 - Spring 2021</b></td>
         </tr>
         <tr>
           <td><b>GSU</b></td>
-          <td><b>Advanced GIS</b>: 400/500-level course, <b>Spring 2021</b></td>
+          <td><b>Advanced GIS</b>: 400/500-level course, <b>Fall 2019 - Spring 2021</b></td>
         </tr>
         <tr>
           <td><b>GSU</b></td>
-          <td><b>Introduction to Remote Sensing</b>: 400/500-level course, <b>Spring 2021</b></td>
+          <td><b>Introduction to Remote Sensing</b>: 400/500-level course, <b>Fall{' '}2019 - Spring 2021</b></td>
         </tr>
       </table>
       <ContactIcons />
