@@ -25,7 +25,7 @@ jobs:
   # Single deploy job since we're just deploying
   deploy:
     environment:
-      name: gh-pages
+      name: github-pages
       url: "https://jkaranj1.github.io/"
     runs-on: ubuntu-20.04
     timeout-minutes: 10
