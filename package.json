@@ -12,7 +12,7 @@
   },
   "scripts": {
     "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js",
-    "build": "npm start",
+    "build": "react-scripts build",
     "lint": "eslint \"**/*.js\"",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
